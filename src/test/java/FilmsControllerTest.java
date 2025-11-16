@@ -3,6 +3,5 @@ import ru.yandex.practicum.filmorate.controller.FilmController;
 
 @WebMvcTest(FilmController.class)
 public class FilmsControllerTest {
-
-
+    
 }
